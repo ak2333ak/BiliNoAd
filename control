@@ -1,0 +1,10 @@
+Package: com.huami.bilinoad
+Name: BiliNoAd
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: huami
+Author: huami
+Description: BiliBili净化开屏广告
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate
+Priority: optional
